@@ -1,0 +1,3 @@
+# Recombee (Lab 03)
+recombee-api-client
+pandas
